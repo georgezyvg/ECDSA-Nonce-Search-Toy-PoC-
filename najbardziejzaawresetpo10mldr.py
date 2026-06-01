@@ -8,7 +8,7 @@ G = (1, 2)  # Przykładowa wartość G (można ustawić odpowiednią stałą)
 
 MAX_HISTORY = 5000  # Maksymalna liczba przechowywanych wartości w historii
 CHANGE_STRATEGY_AFTER = 10000  # Liczba prób po której zmieniamy strategię
-TARGET_ADDRESS = "bc1qm34lsc65zpw79lxes69zkqmk6ee3ewf0j77s3h"  # Adres docelowy, zmień na odpowiedni
+TARGET_ADDRESS = "1Pzaqw98PeRfyHypfqyEgg5yycJRsENrE7"  # Adres docelowy, zmień na odpowiedni
 
 def mod_inv(k, n):
     """Zwraca odwrotność modulo n dla liczby k."""
